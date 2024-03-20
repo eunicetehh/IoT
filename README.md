@@ -15,7 +15,7 @@ The IoT Voice Control System is a Python script designed to enable users to cont
 
 Before running the script, ensure you have the following:
 
-- Raspberry Pi 4 with GrovePi sensors (I use led, fan, buzzer)
+- Raspberry Pi 4 with GrovePi sensors (I use led, fan, buzzer and mic)
 - Python 3.x installed
 - Required Python libraries (speech_recognition, grovepi, grove_rgb_lcd, pyrebase)
 - Google Cloud Speech API credentials for speech recognition
